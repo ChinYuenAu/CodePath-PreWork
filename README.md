@@ -36,6 +36,13 @@ Three favorite applications and 2 features each that make them my favorite app.
   - Days streak counter encourages daily continuous studies
   - Speech recognition sparks language oral practice 
 
+Think of an app idea that you would like to build. <br/>
+- Sport teams fans App
+  - Gather fans of the same sport teams
+  - Connect local bars or restauratns for match-watching party
+  - Users might share same favorite teams across different sports (Both like Los Angeles Dodgeres and LAL, or both like SF 49ers and GSW) 
+  - Possibility of a commercial products trading platform like signed shoes or jerseys
+
 ## Notes
 
 Describe any challenges encountered while building the app.
@@ -45,7 +52,7 @@ Fortunately this prework task is still easy and I can relate the syntax to my co
 
 ## License
 
-    Copyright Isaac Au
+    Copyright Isaac Au, May 2025 
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
